@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f1f1f1;
+    background-color: #0000ff;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -64,19 +64,19 @@ button, .source-btn, .dsc-btn, .clr-btn {
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 button:hover {
-    transform: scale(1.05)
+    transform: scale(1.15)
 }
 .clr-btn:hover {
     background-color: #ff3c00;
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 .dsc-btn:hover {
     background-color: #9656ce;
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 .source-btn:hover {
     background-color: #000;
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 .source-btn {
     background-color: #000; /* Black color for GitHub button */
@@ -144,7 +144,7 @@ button:hover {
 
 .footer button.server-list:hover {
     background-color: #333; /* Slightly lighter shade for hover effect */
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 
 .footer button.eaglerrinth-mod-list {
@@ -153,7 +153,7 @@ button:hover {
 
 .footer button.eaglerrinth-mod-list:hover {
     background-color: #a751f2; /* Slightly lighter shade for hover effect */
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 
 /* Modal Styles */
